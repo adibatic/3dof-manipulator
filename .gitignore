@@ -1,0 +1,7 @@
+# SolidWorks lock and backup files
+~$*
+*.bak
+*.SLDBAK
+
+# Vendor model, downloaded separately (see README, "Opening the model")
+cad/706plain_bearings.sldprt
